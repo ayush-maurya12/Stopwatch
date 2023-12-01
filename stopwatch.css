@@ -1,0 +1,36 @@
+.cantainer{
+    background-color:red;
+    height:1000px;
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(136, 182, 185, 0.715);
+}
+.box{
+    text-align: center;
+    width:500px;
+    height:250px;
+    background:linear-gradient(140deg,rgb(81, 108, 215),rgb(5, 239, 12));
+    color:rgb(245, 249, 249);
+    border-radius: 20px;
+    padding-top:50px;
+    border:1px solid black;
+    box-shadow: 0px 2px 15px 2px rgba(14, 13, 13, 0.767);
+}
+#showtime{
+    font-size:80px;
+}
+.btn{
+    /* background-color: yellow; */
+    width:400px;
+    margin-top:30px;
+    margin-left:38px;
+}
+button{
+    height:50px;
+    width:100px;
+    margin-left:30px;
+    border:none;
+    background-color:transparent;
+}
